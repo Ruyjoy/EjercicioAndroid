@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mi Aplicacion</string>
+    <string name="_name">Nombre Completo</string>
+    <string name="_ingresarFecha">Ingresar Fecha de Nacimiento</string>
+
+    <string name="_Tel">Ingresar Telefono</string>
+    <string name="_Mail">Email</string>
+    <string name="_Des">Descripcion del contacto</string>
+    <string name="_Siguiente">Siguiente</string>
+
+    <string name="nombreLabel">Nombre:\u0020\u0020\u0020</string>
+    <string name="telLabel">Telefono:\u0020\u0020\u0020</string>
+    <string name="fechaLabel">Fecha de Nacimiento:\u0020\u0020\u0020</string>
+    <string name="mailLabel">Email:\u0020\u0020\u0020</string>
+    <string name="desLabel">Descripcion de contacto:\u0020\u0020\u0020</string>
+
+    <string name="pantallaTitulo">Pantalla de Confirmacion</string>
+    <string name="buttonEditar">Editar Datos</string>
+</resources>
